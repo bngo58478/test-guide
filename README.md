@@ -5,3 +5,4 @@
 4. Click on user icon on top-right corner and login to your account
 5. Remove yourself
 6. Verify you not pro in https://zammad.eyecos.org/
+7. NEXT_PUBLIC_FAMILY_LIMIT in .env for family capacity
