@@ -7,23 +7,19 @@
 6. Remove yourself
 7. Verify you not pro in https://zammad.eyecos.org/
 
-# Servers
-1. 5.75.148.51
-2. 95.217.3.89
-
 # Services
-1. 5.75.148.51
+**5.75.148.51**
   - postgres
   - minio
   - aexol-shop-backend: no repo
   - vendure-nextjs-storefront-main: no repo
   - node-webhook: no repo
-2. 95.217.3.89
+**95.217.3.89**
   - postgres
   - zammad-docker-compose: no repo
   - zammad-login: https://github.com/LuigiClemente/zammad-login
   - cube_zammad: https://github.com/LuigiClemente/cube_zammad.git
-3. 5.161.233.158
+**5.161.233.158**
   - camunda-platform: no repo
 
 # Addition note
