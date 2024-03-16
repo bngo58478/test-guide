@@ -17,7 +17,7 @@
 
 **95.217.3.89**
   - postgres
-  - zammad-docker-compose: no repo
+  - zammad-docker-compose: https://github.com/LuigiClemente/zammad-docker-compose
   - zammad-login: https://github.com/LuigiClemente/zammad-login
   - cube_zammad: https://github.com/LuigiClemente/cube_zammad.git
 
