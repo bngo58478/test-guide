@@ -22,7 +22,7 @@
   - cube_zammad: https://github.com/LuigiClemente/cube_zammad.git
 
 **5.161.233.158**
-  - camunda-platform: no repo
+  - camunda-platform: https://github.com/LuigiClemente/camunda-platform
 
 # Addition note
 1. NEXT_PUBLIC_FAMILY_LIMIT in .env for family capacity
