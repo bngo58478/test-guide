@@ -11,9 +11,9 @@
 **5.75.148.51**
   - postgres
   - minio
-  - aexol-shop-backend: no repo
-  - vendure-nextjs-storefront-main: no repo
-  - node-webhook: no repo
+  - aexol-shop-backend: https://github.com/LuigiClemente/aexol-shop-backend
+  - vendure-nextjs-storefront-main: https://github.com/LuigiClemente/vendure-nextjs-storefront-main
+  - node-webhook: https://github.com/LuigiClemente/node-webhook
 
 **95.217.3.89**
   - postgres
